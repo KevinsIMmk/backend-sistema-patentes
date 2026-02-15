@@ -53,6 +53,22 @@ El sistema permite una reducción significativa de horas-hombre operativas media
 
 ---
 
+
+## 📁 Documentación
+
+Este repositorio incluye como documentación adicional la presentación del proyecto en formato PowerPoint, donde se explica:
+
+- Problemática identificada  
+- Modelado AS-IS  
+- Rediseño TO-BE  
+- Comparación de eficiencia  
+- Arquitectura del sistema  
+- Metodología de desarrollo  
+- Resultados obtenidos  
+
+📎 [Ver Presentación del Proyecto](./Titulo.pptx)
+
+
 ## 🚀 Instalación y ejecución
 
 1. Clonar repositorio:
@@ -80,19 +96,6 @@ php artisan serve
 
 ---
 
-## 📁 Documentación
-
-Este repositorio incluye como documentación adicional la presentación del proyecto en formato PowerPoint, donde se explica:
-
-- Problemática identificada  
-- Modelado AS-IS  
-- Rediseño TO-BE  
-- Comparación de eficiencia  
-- Arquitectura del sistema  
-- Metodología de desarrollo  
-- Resultados obtenidos  
-
-📎 [Ver Presentación del Proyecto](./Titulo.pptx)
 Autor
 
 Kevin Yair Irigoyen Martínez
