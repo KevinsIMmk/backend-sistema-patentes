@@ -60,25 +60,25 @@ El sistema permite una reducción significativa de horas-hombre operativas media
 ```bash
 git clone https://github.com/KevinsIMmk/backend-sistema-patentes.git
 cd backend-sistema-patentes
-Instalar dependencias:
 
+2. Instalar dependencias:
 composer install
-Crear archivo de entorno:
 
+3.Crear archivo de entorno:
 cp .env.example .env
-Generar key:
 
+4.Generar key:
 php artisan key:generate
-Configurar base de datos en .env
 
+5. Configurar base de datos en .env
 
-
-
+6. Ejecutar migraciones
 php artisan migrate
-Levantar servidor:
 
+7. Levantar servidor:
 php artisan serve
-📁 Documentación
+
+## 📁 Documentación
 Este repositorio incluye como documentación adicional la presentación del proyecto en formato PowerPoint, donde se explica:
 
 Problemática identificada
