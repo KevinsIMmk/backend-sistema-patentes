@@ -78,7 +78,7 @@ php artisan migrate
 7. Levantar servidor:
 php artisan serve
 
-
+---
 
 ## 📁 Documentación
 
