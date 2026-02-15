@@ -99,7 +99,7 @@ La presentación completa del proyecto se encuentra disponible aquí:
 
 📎 [Ver Presentación del Proyecto](./Titulo.pptx)
 
-
+---
 Autor
 
 Kevin Yair Irigoyen Martínez
