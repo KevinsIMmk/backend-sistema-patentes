@@ -78,28 +78,21 @@ php artisan migrate
 7. Levantar servidor:
 php artisan serve
 
+
+
 ## 📁 Documentación
+
 Este repositorio incluye como documentación adicional la presentación del proyecto en formato PowerPoint, donde se explica:
 
-Problemática identificada
-
-Modelado AS-IS
-
-Rediseño TO-BE
-
-Comparación de eficiencia
-
-Arquitectura del sistema
-
-Metodología de desarrollo
-
-Resultados obtenidos
-
-La presentación completa del proyecto se encuentra disponible aquí:
+- Problemática identificada  
+- Modelado AS-IS  
+- Rediseño TO-BE  
+- Comparación de eficiencia  
+- Arquitectura del sistema  
+- Metodología de desarrollo  
+- Resultados obtenidos  
 
 📎 [Ver Presentación del Proyecto](./Titulo.pptx)
-
----
 Autor
 
 Kevin Yair Irigoyen Martínez
